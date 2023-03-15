@@ -1,0 +1,55 @@
+body{
+    background-color: darkblue;
+}
+h1{
+    background-color:azure;
+    text-align:center; 
+    display:block;
+    text-align: center;
+    clear: both;
+    width: 100%; 
+    font-size: 50px;
+    border-radius: 19px;
+}
+header{
+    background-color: darkorange;
+    border: 5px;
+    border-color: gainsboro;
+    border-style:solid;
+    border-radius: 19px;
+}
+button{
+    width: 20%;
+    padding: 10px;
+    background-color: aqua;
+    font-size: 20px;
+    font-family: initial;
+    display: block;
+}
+main{
+    width: 52%;
+    font-size: 20px;
+    margin: 12px; 
+    padding: 12px;
+    background-color:lightskyblue;
+    border: 5px;
+    border-color: gainsboro;
+    border-style:solid;
+    border-radius: 19px;
+    display: inline-block;
+}
+
+aside{
+    display: inline-block;
+    float: right;
+    padding: 12px;
+} 
+p{
+    background-color:paleturquoise;
+    border: 5px;
+    border-color:cornflowerblue;
+    border-style:solid;
+    border-radius: 12px;
+    padding: 12px;
+
+}

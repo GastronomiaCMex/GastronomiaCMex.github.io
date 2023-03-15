@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Genos:wght@300&family=Josefin+Sans:ital,wght@1,300&display=swap');
+#no{
+    font-family: 'Genos', sans-serif;
+    background-color: mediumturquoise;
+}
+h1{
+    background-color:azure;
+    text-align:center; 
+    display:block;
+    text-align: center;
+    clear: both;
+    width: 100%; 
+    font-size: 50px;
+    border-radius: 19px;
+    
+}
+header{
+    background-color:darkorange;
+    border: 5px;
+    border-color: gainsboro;
+    border-style:solid;
+    border-radius: 19px;
+}
+h3{
+    font-size:43px;
+}
+p{
+    font-size:25px;
+    background-color:paleturquoise;
+    border: 5px;
+    border-color:cornflowerblue;
+    border-style:solid;
+    border-radius: 19px;
+}
+.comida1{
+    float: right;
+    display: flex;
+    padding: 12px; 
+}
+.comida2{
+    float:left;
+    display: flex;
+    padding: 12px; 
+}
+
+.food{
+    background-color:darkmagenta;
+    border: 5px;
+    border-color: darkmagenta;
+    border-style:solid;
+    border-radius: 19px;
+}

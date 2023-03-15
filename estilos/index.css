@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body{
+background-color: cornflowerblue;
+}
+header{
+    border:10px;
+    border-radius: 15px;
+    border-style:groove;
+    border-color:darkblue;
+    padding: 5px;
+}
+#prin{
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    width:52%;
+    text-align:center;
+    display: inline-block;
+    transform: translateX(40%);
+
+}
+#img1{
+    display: inline-block;
+    float:right;
+    width: 22%;
+}
+#tacos{
+    border:15px;
+    border-radius: 15px;
+    border-style:groove;
+    border-color:antiquewhite;
+    padding: 5px;
+}
+
+ #barranav{
+    width: 96%;
+    margin:12px;
+    clear:both;
+    border:10px;
+    border-radius: 15px;
+    border-style:groove;
+    border-color:darkblue;
+    padding: 5px;
+    background-image: url(taco-papel-sobre-tablero-madera-plano.jpg);
+ }
+
+ .menu{
+    display: inline-block;
+    width: 10%; 
+    background-color:antiquewhite;
+    border: 6px purple; 
+    border-style: ridge;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    font-size: 24px;
+ }
+ 
+ #textopie{
+    border: 15px;
+    border-color: azure;
+    border-style:double;
+    border-radius: 14px;
+ }
+ .pie{
+    width: 100%;
+    text-align: center;
+    font-size: 23px;
+ }

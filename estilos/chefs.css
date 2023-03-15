@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Genos:wght@300&family=Josefin+Sans:ital,wght@1,300&display=swap');
+html{
+    font-family: 'Genos', sans-serif;
+}
+h1{
+    background-color:azure;
+    text-align:center; 
+    display:block;
+    text-align: center;
+    clear: both;
+    width: 100%; 
+    font-size: 50px;
+    border-radius: 19px;
+}
+header{
+    background-color:darkorange;
+    border: 5px;
+    border-color:darkorange;
+    border-style:solid;
+    border-radius: 19px;
+}
+h3{
+    font-size: 35px;
+}
+
+.text1{
+    float: right;
+    display: flex;
+    padding: 12px; 
+    font-size: 20px;
+}
+.text2{
+    float: left;
+    display: flex;
+    padding: 12px; 
+    font-size: 20px;
+}
+#img1{
+    padding: 19px;
+
+}
+#img2{
+    padding: 25px;
+}
+p{
+    font-size:25px;
+    background-color:blueviolet;
+    border: 5px;
+    border-color:lightskyblue;
+    border-style:solid;
+    border-radius: 19px;
+}

@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@200&display=swap');
+body{
+    background-color:coral;
+    font-family: 'Changa', sans-serif;
+    font-size: 18px;
+}
+h1{
+    font-family: 'Permanent Marker', cursive;
+    background-color:azure;
+    text-align:center; 
+    display:block;
+    text-align: center;
+    clear: both;
+    width: 100%; 
+    font-size: 50px;
+    border-radius: 19px;
+}
+h3{
+    background-color:azure;
+    font-size: 35px;
+    width: 48%;
+    transform: translateX(55%);
+    font-family: serif;
+    text-align:center;
+    border-radius: 12px;
+    border-color: blueviolet;
+}
+header{
+    background-color: crimson;
+    border: 5px;
+    border-color:cornflowerblue;
+    border-style:solid;
+    border-radius: 19px;
+}
+#videos{
+    border: 15px;
+    background-color:paleturquoise;
+    border-color:cornflowerblue;
+    border-style:double;
+    border-radius: 30px;
+    width: 41%;
+    transform: translateX(60%);
+    padding: 20px;
+}
+.lista1{
+
+}
+.lista2{
+
+}

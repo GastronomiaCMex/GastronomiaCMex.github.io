@@ -1,0 +1,56 @@
+html{
+ background-color: blue;
+}
+h1{
+background-color:azure;
+text-align:center;
+display:block;
+text-align: center;
+clear: both;
+width: 100%;
+font-size: 50px;
+border-radius: 19px;
+}
+header{
+background-color: darkorange;
+border: 5px;
+border-color: gainsboro;
+border-style:solid;
+border-radius: 19px;
+}
+main{
+background-color: dodgerblue;
+border: 10px;
+border-color: firebrick;
+border-style:solid;
+border-radius: 19px;
+margin: 10px;
+}
+#pie{
+margin: 10px;
+background-color: dodgerblue;
+border: 10px;
+border-color: firebrick;
+border-style:solid;
+border-radius: 19px;
+}
+iframe{
+    margin: 10px;
+    margin-left: 10px;
+    border-bottom-style:solid;
+}
+#yo{
+    font-style: italic;
+    text-align: center;
+}
+#arriba{
+   font-style: italic;
+    text-align: center; 
+}
+#bajo{
+    font-style: italic;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
